@@ -6,7 +6,7 @@ documentationcenter: virtual-machines
 author: neilpeterson
 manager: timlt
 editor: tysonn
-tags: azure-resource-manager
+tags: azure-resource-manager， azure, virtual machine
 
 ms.assetid:
 ms.service: virtual-machines-windows
